@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+}
+.theme{
+font-size: 80px;
+margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-image: url(https://ichef.bbci.co.uk/news/1024/cpsprodpb/3D6F/production/_129872751_gettyimages-962297762.jpg);
+    margin: 0px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.butoon{
+    background-color: black;
+    color: white;
+}
+.butoon:hover{
+    background-color: red;
+} 
